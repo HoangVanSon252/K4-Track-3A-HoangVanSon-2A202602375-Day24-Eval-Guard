@@ -8,7 +8,7 @@ Trưởng nhóm/người nộp: Hoàng Văn Sơn - 2A202602375
 
 Ngày lab/deadline áp dụng: 2026-10-12 23:59 — Asia/Ho_Chi_Minh (UTC+07:00)
 
-Commit dùng để chấm: b9f8d5b53bc4f94899aa30fdc52c30be0e96eb6d
+Commit dùng để chấm: 251514f2ee705e551cc202790216c054d5ebe6f4
 
 Mỗi nhóm nộp một repo. Điền đủ thành viên và một mục INDIVIDUAL cho từng người.
 Thêm/xóa rows để khớp nhóm thật; nhóm thực hiện đơn thành viên (1 người).
